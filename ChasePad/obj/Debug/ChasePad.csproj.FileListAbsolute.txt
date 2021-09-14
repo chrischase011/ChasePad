@@ -8,3 +8,13 @@ C:\Users\Samsung\source\repos\ChasePad\ChasePad\obj\Debug\ChasePad.csproj.Genera
 C:\Users\Samsung\source\repos\ChasePad\ChasePad\obj\Debug\ChasePad.csproj.CoreCompileInputs.cache
 C:\Users\Samsung\source\repos\ChasePad\ChasePad\obj\Debug\ChasePad.exe
 C:\Users\Samsung\source\repos\ChasePad\ChasePad\obj\Debug\ChasePad.pdb
+C:\Users\Samsung\source\repos\ChasePadClone\ChasePad\bin\Debug\ChasePad.exe.config
+C:\Users\Samsung\source\repos\ChasePadClone\ChasePad\bin\Debug\ChasePad.exe
+C:\Users\Samsung\source\repos\ChasePadClone\ChasePad\bin\Debug\ChasePad.pdb
+C:\Users\Samsung\source\repos\ChasePadClone\ChasePad\obj\Debug\ChasePad.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\ChasePadClone\ChasePad\obj\Debug\ChasePad.Editor.resources
+C:\Users\Samsung\source\repos\ChasePadClone\ChasePad\obj\Debug\ChasePad.Properties.Resources.resources
+C:\Users\Samsung\source\repos\ChasePadClone\ChasePad\obj\Debug\ChasePad.csproj.GenerateResource.cache
+C:\Users\Samsung\source\repos\ChasePadClone\ChasePad\obj\Debug\ChasePad.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\ChasePadClone\ChasePad\obj\Debug\ChasePad.exe
+C:\Users\Samsung\source\repos\ChasePadClone\ChasePad\obj\Debug\ChasePad.pdb
