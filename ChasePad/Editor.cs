@@ -124,7 +124,7 @@ namespace ChasePad
                     isFileAlreadySaved = true;
                     isFileHasContents = false;
                     currentFileName = fileDialog.FileName;
-
+                    // Comment
                     this.Text = fileDialog.FileName + " - ChasePad";
                     break;
             }
