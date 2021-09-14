@@ -125,6 +125,7 @@ namespace ChasePad
                     isFileHasContents = false;
                     currentFileName = fileDialog.FileName;
                     // Comment
+                    // Fixed the line 100
                     this.Text = fileDialog.FileName + " - ChasePad";
                     break;
             }
