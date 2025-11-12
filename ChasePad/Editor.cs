@@ -102,6 +102,7 @@ namespace ChasePad
                     isFileAlreadySaved = true;
                     isFileHasContents = false;
                     currentFileName = saveFileDialog.FileName;
+                    this.Text = currentFileName;
 
                     this.Text = this.Text.Replace("*", "");
                     break;
